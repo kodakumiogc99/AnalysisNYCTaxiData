@@ -21,10 +21,10 @@
 
 1. Yellow Taxi Trip Records from January, 2009 to March, 2009 (totally three months).
 2. Submit a report named "HW1_StudentID.pdf' to e3.
-3. Descriptions of: \\
-    a. scale of data \\
-    b. analytical tools \\
-    c. spec of the platform be used \\
+3. Descriptions of: \
+    a. scale of data \
+    b. analytical tools \
+    c. spec of the platform be used \
 4. Descriptions of how you solve each question in detail.
 5. Some figures or tables to illustrate your analyzed answers to each question.
 6. Anything else worth mentioning
