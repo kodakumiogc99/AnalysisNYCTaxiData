@@ -25,9 +25,9 @@
     a. scale of data \
     b. analytical tools \
     c. spec of the platform be used \
-4. Descriptions of how you solve each question in detail.
-5. Some figures or tables to illustrate your analyzed answers to each question.
-6. Anything else worth mentioning
-    a. valuable obserbations
-    b. difficulties encountered.
-    c. how to resolve
+4. Descriptions of how you solve each question in detail. \
+5. Some figures or tables to illustrate your analyzed answers to each question. \
+6. Anything else worth mentioning \
+    a. valuable obserbations \
+    b. difficulties encountered. \
+    c. how to resolve \
