@@ -1,0 +1,3 @@
+taxi_zones/*
+*.csv
+.ipynb_checkpoints

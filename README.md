@@ -1,4 +1,4 @@
- Big Data Analytics Techniques and Applications
+# Big Data Analytics Techniques and Applications
 
 ## Purpose
 
@@ -11,8 +11,13 @@
 
 ## Question
 
-1. What regions have the most pickups? What are te top-5 regions with the most pickups and drop-offs (pickups and drop-offs should be counted separately)?
-2. When are the peak hous and off-peak hous for taking a taxi?
+1. What regions have the most pickups? What are the top-5 regions with the most pickups and drop-offs (pickups and drop-offs should be counted separately)?
+    - pickups: Start_Lon, Start_Lat
+    - drop-offs: End_Lon, End_Lat
+```
+datatable.frame.unique: Count the number of unique values for each column in the frame
+```
+2. When are the peak hours and off-peak hous for taking a taxi?
     - hint: You can count the number of pickups in different hours of day.
 3. What are the differences between big and small total amounts when taking a taxi?
     - hint: First, you should define what big and small total amounts are. And then, you should point out the difference between them. You should at least observe the results of Q1 and Q2.
@@ -31,3 +36,5 @@
     a. valuable obserbations \
     b. difficulties encountered. \
     c. how to resolve
+
+| Trip_Pickup_DateTime | Trip_Dropoff_DatTime | Start_Lon | Start_Lat | End_Lon | End_Lat |
