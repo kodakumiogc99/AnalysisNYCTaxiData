@@ -1,3 +1,4 @@
 taxi_zones/*
 *.csv
 .ipynb_checkpoints
+.gitignore
