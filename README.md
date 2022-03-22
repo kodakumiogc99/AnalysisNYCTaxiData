@@ -71,8 +71,8 @@ def cor2loc(df, lon_var, lat_var, name_var):
 
 #### Top 10 of pickups
 
-[![Alt text]](./figure/1.png)
-![](./figure/1.png)
+![](https://i.imgur.com/SnHH2NX.png =500x)
+
 #### Hypsometric maps (zone) of pickups
 
 ![](https://i.imgur.com/tuu7Xx6.png)
